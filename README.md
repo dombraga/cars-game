@@ -7,4 +7,4 @@ Jogar
 
 // 1 - Projecto denominado “Cars”;
 
-Aplicação em JAVA que simula corridas de carro.
+Aplicação em JAVA que simula corridas de carros.
